@@ -1,2 +1,2 @@
 hi 13
-lol
+lol#solve
